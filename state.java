@@ -1,0 +1,9 @@
+enum State {
+  STARTSCREEN, 
+  STARTMESSAGE, 
+  PLAYING, 
+  PAUSESCREEN, 
+  SAVE, 
+  HELP
+};
+
